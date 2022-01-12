@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python (OOPS - Object Oriented Programming), HTML5, CSS3 and Java
 - 👯 I’m looking to collaborate on making some kind of project
 - 🤔 I’m looking for help with nothing yet
-- 📫 How to reach me: dedboicoding@gmail.com
+- 📫 Contact me: dedboicoding@gmail.com
 - 😄 Pronouns: Adam
 - ⚡ Fun fact: I love drawing
+I'm also a content creator on YouTube. Check it out here - https://www.youtube.com/channel/UCvdjagFDcOIRqpXOTmgCmMQ. Please subscribe :)
