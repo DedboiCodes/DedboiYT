@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with nothing yet
 - 📫 Contact me: dedboicoding@gmail.com
 - 😄 Pronouns: Adam
-- ⚡ Fun fact: I love drawing
+- ⚡ Fun fact: I love drawing.
 I'm also a content creator on YouTube. Check it out here - https://www.youtube.com/channel/UCvdjagFDcOIRqpXOTmgCmMQ. Please subscribe :)
