@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on a very important thing
-- 🌱 I’m currently learning Python (OOPS - Object Oriented Programming), HTML5, CSS3 and Java
+- 🌱 I’m currently learning Python (OOPS - Object Oriented Programming), HTML5, CSS3, Java and how to use Neovim
 - 👯 I’m looking to collaborate on making some kind of project
 - 🤔 I’m looking for help with nothing yet
 - 📫 Contact me: dedboicoding@gmail.com
